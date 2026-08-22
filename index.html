@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Career Compass - personalized job and government exam opportunity dashboard" />
+  <title>Career Compass</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar">
+    <a class="brand" href="#dashboard"><span class="brand-mark">C</span><span>Career Compass</span></a>
+    <nav class="nav">
+      <a class="nav-link active" href="#dashboard"><i data-lucide="layout-dashboard"></i>Dashboard</a>
+      <a class="nav-link" href="#government"><i data-lucide="landmark"></i>Government</a>
+      <a class="nav-link" href="#private"><i data-lucide="briefcase-business"></i>Private Jobs</a>
+      <a class="nav-link" href="#saved"><i data-lucide="bookmark"></i>Saved</a>
+    </nav>
+    <div class="profile-mini">
+      <div class="avatar">BC</div>
+      <div><strong>Career Profile</strong><small>Ahmedabad, Gujarat</small></div>
+    </div>
+  </aside>
+
+  <main>
+    <header class="topbar">
+      <button class="icon-btn mobile-menu" id="menuBtn" aria-label="Open menu"><i data-lucide="menu"></i></button>
+      <div class="search-wrap"><i data-lucide="search"></i><input id="searchInput" placeholder="Search jobs, exams, skills, companies..." /></div>
+      <div class="top-actions">
+        <button class="icon-btn" id="themeBtn" aria-label="Toggle theme"><i data-lucide="moon"></i></button>
+        <button class="refresh-btn" id="refreshBtn"><i data-lucide="refresh-cw"></i><span>Refresh Opportunities</span></button>
+      </div>
+    </header>
+
+    <section class="page-section hero" id="dashboard">
+      <div>
+        <p class="eyebrow">PERSONALIZED CAREER DISCOVERY</p>
+        <h1>Good <span id="greeting">Morning</span> 👋</h1>
+        <p class="hero-copy">Discover opportunities matching your qualifications, skills and career goals.</p>
+        <div class="chips">
+          <span>B.Com Graduate</span><span>M.Com Pursuing</span><span>Tally Certified</span><span>CS Executive Aspirant</span>
+        </div>
+      </div>
+      <div class="hero-meta">
+        <div><i data-lucide="map-pin"></i><span>Ahmedabad, Gujarat</span></div>
+        <div><i data-lucide="clock-3"></i><span id="lastUpdated">Loading latest data…</span></div>
+        <button class="refresh-btn hero-refresh" id="heroRefresh"><i data-lucide="refresh-cw"></i>Refresh now</button>
+      </div>
+    </section>
+
+    <section class="stats-grid" id="stats"></section>
+
+    <section class="page-section">
+      <div class="section-heading"><div><p class="eyebrow">DON'T MISS OUT</p><h2>🔥 Closing Soon</h2></div><button class="text-btn" data-filter="closing">View all <i data-lucide="arrow-right"></i></button></div>
+      <div class="card-grid horizontal-grid" id="closingSoon"></div>
+    </section>
+
+    <section class="page-section">
+      <div class="section-heading"><div><p class="eyebrow">PERSONALIZED FOR YOU</p><h2>⭐ Best Matches</h2></div><div class="sort-controls"><select id="sortSelect"><option value="match">Highest match</option><option value="deadline">Closing soon</option></select></div></div>
+      <div class="card-grid" id="bestMatches"></div>
+    </section>
+
+    <section class="page-section" id="government">
+      <div class="section-heading"><div><p class="eyebrow">PUBLIC SECTOR</p><h2>🏛 Government Exams & Jobs</h2></div></div>
+      <div class="filter-row category-tabs" id="govTabs">
+        <button class="filter-chip active" data-category="all">All</button>
+        <button class="filter-chip" data-category="Railway">🚆 Railway</button>
+        <button class="filter-chip" data-category="IBPS">🏦 IBPS</button>
+        <button class="filter-chip" data-category="Banking">Banking</button>
+        <button class="filter-chip" data-category="SSC">📚 SSC</button>
+        <button class="filter-chip" data-category="Gujarat Government">Gujarat Govt</button>
+      </div>
+      <div class="card-grid" id="governmentGrid"></div>
+    </section>
+
+    <section class="page-section" id="private">
+      <div class="section-heading"><div><p class="eyebrow">CAREER OPPORTUNITIES</p><h2>💼 Private Jobs</h2></div></div>
+      <div class="filter-row category-tabs" id="privateTabs">
+        <button class="filter-chip active" data-category="all">All</button>
+        <button class="filter-chip" data-category="Ahmedabad">📍 Ahmedabad</button>
+        <button class="filter-chip" data-category="Accounting">Accounting</button>
+        <button class="filter-chip" data-category="Tally">Tally</button>
+        <button class="filter-chip" data-category="Taxation">Taxation</button>
+        <button class="filter-chip" data-category="CS & Compliance">CS & Compliance</button>
+      </div>
+      <div class="card-grid" id="privateGrid"></div>
+    </section>
+
+    <section class="page-section" id="saved">
+      <div class="section-heading"><div><p class="eyebrow">YOUR SHORTLIST</p><h2>🔖 Saved Opportunities</h2></div></div>
+      <div class="card-grid" id="savedGrid"></div>
+    </section>
+  </main>
+</div>
+
+<div class="modal-backdrop hidden" id="modalBackdrop">
+  <div class="modal">
+    <button class="modal-close icon-btn" id="modalClose"><i data-lucide="x"></i></button>
+    <div id="modalContent"></div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<script src="script.js"></script>
+</body>
+</html>

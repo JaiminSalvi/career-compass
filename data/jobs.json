@@ -1,0 +1,748 @@
+{
+  "lastUpdated": "2026-08-22T00:00:00Z",
+  "note": "Initial dataset includes clearly labelled demo entries for private jobs. Government source links are official home/recruitment pages and must be verified by the updater before publishing specific opening details.",
+  "opportunities": [
+    {
+      "id": "ssc-chsl",
+      "title": "SSC CHSL",
+      "organization": "Staff Selection Commission",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "SSC",
+        "CHSL"
+      ],
+      "location": [
+        "India"
+      ],
+      "qualification": "12th pass / post-specific requirements",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-15",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "SSC",
+        "Government",
+        "Graduate pathway",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 92,
+      "skills": [
+        "SSC",
+        "CHSL"
+      ],
+      "notificationUrl": "https://ssc.gov.in/",
+      "applicationUrl": "https://ssc.gov.in/",
+      "sourceName": "SSC Official",
+      "sourceUrl": "https://ssc.gov.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "ssc-mts",
+      "title": "SSC MTS",
+      "organization": "Staff Selection Commission",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "SSC",
+        "MTS"
+      ],
+      "location": [
+        "India"
+      ],
+      "qualification": "10th pass",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-28",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "Government",
+        "Entry level",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 88,
+      "skills": [
+        "SSC",
+        "MTS"
+      ],
+      "notificationUrl": "https://ssc.gov.in/",
+      "applicationUrl": "https://ssc.gov.in/",
+      "sourceName": "SSC Official",
+      "sourceUrl": "https://ssc.gov.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "ssc-cgl",
+      "title": "SSC CGL",
+      "organization": "Staff Selection Commission",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "SSC",
+        "CGL"
+      ],
+      "location": [
+        "India"
+      ],
+      "qualification": "Bachelor's degree for many posts",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-10",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "B.Com graduate relevant",
+        "Graduate-level examination",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 94,
+      "skills": [
+        "SSC",
+        "CGL"
+      ],
+      "notificationUrl": "https://ssc.gov.in/",
+      "applicationUrl": "https://ssc.gov.in/",
+      "sourceName": "SSC Official",
+      "sourceUrl": "https://ssc.gov.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "ibps-po",
+      "title": "IBPS PO/MT",
+      "organization": "Institute of Banking Personnel Selection",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "IBPS",
+        "Banking"
+      ],
+      "location": [
+        "India"
+      ],
+      "qualification": "Bachelor's degree",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-20",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "B.Com is a bachelor's degree",
+        "Banking opportunity",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 90,
+      "skills": [
+        "IBPS",
+        "Banking"
+      ],
+      "notificationUrl": "https://www.ibps.in/",
+      "applicationUrl": "https://www.ibps.in/",
+      "sourceName": "IBPS Official",
+      "sourceUrl": "https://www.ibps.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "ibps-csa",
+      "title": "IBPS Customer Service Associate",
+      "organization": "Institute of Banking Personnel Selection",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "IBPS",
+        "Banking"
+      ],
+      "location": [
+        "India"
+      ],
+      "qualification": "Bachelor's degree",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-05",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "B.Com graduate",
+        "Strong entry-level banking match",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 96,
+      "skills": [
+        "IBPS",
+        "Banking"
+      ],
+      "notificationUrl": "https://www.ibps.in/",
+      "applicationUrl": "https://www.ibps.in/",
+      "sourceName": "IBPS Official",
+      "sourceUrl": "https://www.ibps.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "rrb-ntpc",
+      "title": "RRB NTPC - Graduate Level",
+      "organization": "Railway Recruitment Board",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "Railway",
+        "RRB"
+      ],
+      "location": [
+        "India",
+        "Ahmedabad"
+      ],
+      "qualification": "Graduate-level posts",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-01",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "Graduate qualification relevant",
+        "Railway interest",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 91,
+      "skills": [
+        "Railway",
+        "RRB"
+      ],
+      "notificationUrl": "https://www.rrbahmedabad.gov.in/",
+      "applicationUrl": "https://www.rrbahmedabad.gov.in/",
+      "sourceName": "Official RRB",
+      "sourceUrl": "https://www.rrbahmedabad.gov.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "gpsc-admin",
+      "title": "GPSC Graduate-Level Recruitment",
+      "organization": "Gujarat Public Service Commission",
+      "type": "government_job",
+      "typeLabel": "Government",
+      "category": [
+        "Gujarat Government",
+        "GPSC"
+      ],
+      "location": [
+        "Gujarat",
+        "Ahmedabad"
+      ],
+      "qualification": "Post-specific graduate qualification",
+      "ageRequirement": "Check official advertisement",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-20",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "Gujarat location",
+        "Graduate qualification",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 86,
+      "skills": [
+        "Gujarat Government",
+        "GPSC"
+      ],
+      "notificationUrl": "https://gpsc.gujarat.gov.in/",
+      "applicationUrl": "https://gpsc.gujarat.gov.in/",
+      "sourceName": "GPSC Official",
+      "sourceUrl": "https://gpsc.gujarat.gov.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "gsssb-clerk",
+      "title": "GSSSB Clerk / Assistant Opportunity",
+      "organization": "Gujarat Subordinate Service Selection Board",
+      "type": "government_job",
+      "typeLabel": "Government",
+      "category": [
+        "Gujarat Government",
+        "GSSSB"
+      ],
+      "location": [
+        "Gujarat",
+        "Ahmedabad"
+      ],
+      "qualification": "Post-specific",
+      "ageRequirement": "Check official advertisement",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-12",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "Gujarat location",
+        "Commerce background may be relevant",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 89,
+      "skills": [
+        "Gujarat Government",
+        "GSSSB"
+      ],
+      "notificationUrl": "https://gsssb.gujarat.gov.in/",
+      "applicationUrl": "https://gsssb.gujarat.gov.in/",
+      "sourceName": "GSSSB Official",
+      "sourceUrl": "https://gsssb.gujarat.gov.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "sbi-clerk",
+      "title": "SBI Junior Associate / Clerk",
+      "organization": "State Bank of India",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "Banking"
+      ],
+      "location": [
+        "India",
+        "Gujarat"
+      ],
+      "qualification": "Graduate qualification",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-15",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "B.Com graduate",
+        "Banking interest",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 94,
+      "skills": [
+        "Banking"
+      ],
+      "notificationUrl": "https://sbi.co.in/web/careers",
+      "applicationUrl": "https://sbi.co.in/web/careers",
+      "sourceName": "SBI Careers",
+      "sourceUrl": "https://sbi.co.in/web/careers",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "rbi-assistant",
+      "title": "RBI Assistant",
+      "organization": "Reserve Bank of India",
+      "type": "government_exam",
+      "typeLabel": "Government",
+      "category": [
+        "Banking",
+        "RBI"
+      ],
+      "location": [
+        "India"
+      ],
+      "qualification": "Graduate qualification",
+      "ageRequirement": "Check official notification",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-11-01",
+      "examDate": null,
+      "eligibilityStatus": "check",
+      "eligibilityExplanation": [
+        "Graduate qualification relevant",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 87,
+      "skills": [
+        "Banking",
+        "RBI"
+      ],
+      "notificationUrl": "https://www.rbi.org.in/",
+      "applicationUrl": "https://www.rbi.org.in/",
+      "sourceName": "RBI Opportunities",
+      "sourceUrl": "https://www.rbi.org.in/",
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "tally-accountant",
+      "title": "Tally Accountant",
+      "organization": "Demo Ahmedabad Finance Co.",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Accounting",
+        "Tally"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "B.Com preferred",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-03",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "B.Com preferred",
+        "Tally certification",
+        "Ahmedabad location",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 98,
+      "skills": [
+        "Accounting",
+        "Tally"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "junior-accountant",
+      "title": "Junior Accountant",
+      "organization": "Demo Manufacturing Pvt. Ltd.",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Accounting",
+        "Finance"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "B.Com / M.Com",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-08",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "B.Com completed",
+        "M.Com pursuing",
+        "Fresher-friendly role",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 96,
+      "skills": [
+        "Accounting",
+        "Finance"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "tax-exec",
+      "title": "Taxation Executive",
+      "organization": "Demo Tax Advisory",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Taxation",
+        "Accounting"
+      ],
+      "location": [
+        "Ahmedabad",
+        "Hybrid"
+      ],
+      "qualification": "B.Com preferred",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-18",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "Commerce background",
+        "GST and accounting relevance",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 95,
+      "skills": [
+        "Taxation",
+        "Accounting"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "cs-trainee",
+      "title": "CS Executive Trainee",
+      "organization": "Demo Corporate Services",
+      "type": "internship",
+      "typeLabel": "Internship",
+      "category": [
+        "CS & Compliance"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "CS Executive pursuing",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-09-25",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "CS Executive pursuing",
+        "Compliance-focused opportunity",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 99,
+      "skills": [
+        "CS & Compliance"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "accounts-exec",
+      "title": "Accounts Executive",
+      "organization": "Demo Retail Group",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Accounting",
+        "Tally"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "B.Com",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-02",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "B.Com completed",
+        "Tally skill match",
+        "Ahmedabad location",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 97,
+      "skills": [
+        "Accounting",
+        "Tally"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "gst-assistant",
+      "title": "GST & Billing Assistant",
+      "organization": "Demo Consulting",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Taxation",
+        "Tally"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "B.Com preferred",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-07",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "Commerce background",
+        "Tally and GST relevance",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 94,
+      "skills": [
+        "Taxation",
+        "Tally"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "compliance-assistant",
+      "title": "Compliance Assistant",
+      "organization": "Demo Legal & Compliance LLP",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "CS & Compliance"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "Commerce graduate / CS student preferred",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-12",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "CS Executive pursuing",
+        "Compliance relevance",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 98,
+      "skills": [
+        "CS & Compliance"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "remote-bookkeeper",
+      "title": "Remote Junior Bookkeeper",
+      "organization": "Demo Remote Services",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Accounting",
+        "Finance"
+      ],
+      "location": [
+        "Remote"
+      ],
+      "qualification": "Commerce graduate",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-18",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "B.Com completed",
+        "Remote opportunity",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 91,
+      "skills": [
+        "Accounting",
+        "Finance"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "finance-exec",
+      "title": "Finance Executive - Entry Level",
+      "organization": "Demo Financial Services",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Finance",
+        "Accounting"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "B.Com / M.Com",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-10-25",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "Commerce education",
+        "Ahmedabad location",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 95,
+      "skills": [
+        "Finance",
+        "Accounting"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    },
+    {
+      "id": "backoffice",
+      "title": "Back Office & Accounts Executive",
+      "organization": "Demo Business Solutions",
+      "type": "private_job",
+      "typeLabel": "Private Job",
+      "category": [
+        "Accounting",
+        "Tally"
+      ],
+      "location": [
+        "Ahmedabad"
+      ],
+      "qualification": "B.Com",
+      "ageRequirement": "Not applicable",
+      "vacancies": null,
+      "salary": null,
+      "applicationDeadline": "2026-11-02",
+      "examDate": null,
+      "eligibilityStatus": "eligible",
+      "eligibilityExplanation": [
+        "B.Com",
+        "Tally certification",
+        "Verify official requirements before applying."
+      ],
+      "matchScore": 93,
+      "skills": [
+        "Accounting",
+        "Tally"
+      ],
+      "notificationUrl": null,
+      "applicationUrl": null,
+      "sourceName": "Demo sample data",
+      "sourceUrl": null,
+      "lastVerifiedAt": "2026-08-22T00:00:00Z",
+      "status": "open"
+    }
+  ]
+}
