@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T04:45:52.196Z",
+  "lastUpdated": "2026-10-18T04:52:08.350Z",
   "note": "Initial dataset includes clearly labelled demo entries for private jobs. Government source links are official home/recruitment pages and must be verified by the updater before publishing specific opening details.",
   "opportunities": [
     {
@@ -668,7 +668,7 @@
       "sourceName": "Demo sample data",
       "sourceUrl": null,
       "lastVerifiedAt": "2026-08-22T00:00:00Z",
-      "status": "open"
+      "status": "closed"
     },
     {
       "id": "finance-exec",
